@@ -17,7 +17,7 @@ this is not just a website. It's our code, our culture and our checkpoint.
 
 ## Proposed Tech Stack 
 Backend: Laravel 11+ <br>
-Frontend: Vue.js + Inertia <br>
+Frontend: Vue.js + Inertia or Wordpress (TBD) <br>
 Database: MySQL (chosen for Laravel compatibility and hosting support) <br>
 Styling: Tailwind CSS <br>
 Hosting: Agila Hosting (FTP Deployment) <br>
