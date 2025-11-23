@@ -19,7 +19,7 @@ this is not just a website. It's our code, our culture and our checkpoint.
 - **Laravel Framework:** v12.34.0 (Released Oct 2025)
 - **PHP:** 8.2+
 - **Database:** MySQL (Agila Hosting)
-- **Frontend Stack:** Blade + Tailwind + optional retro-styled UI
+- **Frontend Stack:** Blade + Wordpress + optional retro-styled UI
 - **Deployment:** Agila Hosting via FTP
 
 Note: Project Checkpoint Mark II was initially planned with MongoDB for flexibility in content structure. However, due to Agila Hosting’s current lack of MongoDB support, the stack has pivoted to MySQL, ensuring full Laravel compatibility and seamless deployment.
